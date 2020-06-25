@@ -1,0 +1,14 @@
+*{
+    background-color: #CB5959;
+}
+#spongebob{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    padding-left: 400px;
+}
+
+#me{
+    width: 75%;
+    font-size: 20px;
+}
